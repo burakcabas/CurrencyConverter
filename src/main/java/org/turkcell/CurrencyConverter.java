@@ -65,6 +65,5 @@ public class CurrencyConverter {
         }
 
         return amount;
-
     }
 }
